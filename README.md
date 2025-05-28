@@ -31,6 +31,7 @@ I'm a Data Engineer with experience building reliable, scalable, and cloud-nativ
 - **API-to-S3 Pipeline:** Built an automated ETL pipeline using Apache Airflow to extract product data from RapidAPI, transform it using pandas, and load it into AWS S3 in Parquet format. Included daily scheduling and email alerting.
 - **YouTube Analytics:** Serverless ETL pipeline using AWS S3, Glue, Lambda, and Athena to process and analyze nested YouTube JSON/CSV data across multiple regions. Leveraged S3 triggers and Lambda functions for real-time transformation into Parquet, and visualized insights via Amazon QuickSight.
 - **Investment DB:** Designed a relational MySQL database to manage portfolio and transaction data efficiently. Normalized schema design improved query performance by 30%, while stored procedures and triggers enforced data integrity, reducing anomalies and ensuring reliable reporting.
+- **Ad Analytics:** Explored advertisement performance across industry categories using R. Conducted data cleaning and exploratory data analysis (EDA), leveraging visual storytelling to uncover insights on ad spending, impressions, and cost-per-click (CPC).
 
 ## 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/pratiksha-acharya/)
